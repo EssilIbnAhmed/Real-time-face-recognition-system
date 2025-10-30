@@ -68,10 +68,12 @@ Make sure you have **Python 3.8+**, then install the required libraries:
 ```bash
 pip install opencv-python face-recognition deepface numpy scipy
 ```
-Example Output
+## Example Output
 
-When you run the script, the webcam will display faces with rectangles and names above recognized individuals.
-If a face isn’t in the dataset, it will appear as Unknown.
+The webcam feed shows faces with rectangles and names above recognized individuals.  
+If a face isn’t in the dataset, it will appear as **Unknown**.
+
+![Face recognition demo](https://github.com/EssilIbnAhmed/Real-time-face-recognition-system/raw/main/Webcam%20Face%20Recognition.jpeg)
 
 
 License
